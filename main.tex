@@ -2,10 +2,13 @@
 
 \usepackage{fontspec} 
 \usepackage{german}
-\setmainfont{TakaoGothic}
-\newfontfamily\jap{TakaoPMincho}
+
+\setmainfont{Droid Serif}
+\newfontfamily\japtext{TakaoPMincho}
+
 \parindent 0pt
 
+\newcommand{\jap}[1]{\japtext #1}
 \newcommand{\furi}[2]{$\stackrel{\mbox{\tiny #2}}{\mbox{#1}}$}
 
 \title{\jap 日本語を勉強しましょう}
@@ -13,14 +16,13 @@
 \begin{document}
  
  % Bsp für Furigana
- $\stackrel{\mbox{\tiny にほんごのうりょくしけん}}{\mbox{日本語能力試験}}$ \smallskip\\
-  $\stackrel{\mbox{\tiny にほんごのうりょくしけん}}{\mbox{日本語能力試験}}$ \smallskip\\
-   $\stackrel{\mbox{\tiny にほんごのうりょくしけん}}{\mbox{日本語能力試験}}$ \smallskip\\
-   
+  Das ist ein Test.\\
+  \jap{これ、\furi{私}{わたし}が\furi{見}{み}つけたから、\furi{私}{わたし}のよ。}\\
+  \jap{あれ、\furi{右}{みぎ}の\furi{方}{ほう}が\furi{重}{おも}いぞ。}
    \tableofcontents \newpage
    
    \section{Einleitung}
-  {\jap これは\furi{日本語}{にほんご}の\furi{文}{ぶん}です。}
+  \jap{ これは\furi{日本語}{にほんご}の\furi{文}{ぶん}です。}
    \section{Kapitel 1: [Title 1]}
 	\subsection{}
    \section{Kapitel 2: [Title 2]}

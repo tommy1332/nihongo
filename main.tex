@@ -1,14 +1,14 @@
 \documentclass[a4paper]{scrartcl}
 
-%\usepackage[utf8]{inputenc}
 \usepackage{fontspec} 
 \usepackage{german}
 \setmainfont{TakaoGothic}
+\newfontfamily\jap{TakaoPMincho}
 \parindent 0pt
 
 \newcommand{\furi}[2]{$\stackrel{\mbox{\tiny #2}}{\mbox{#1}}$}
 
-\title{日本語を勉強しましょう}
+\title{\jap 日本語を勉強しましょう}
 
 \begin{document}
  
@@ -20,9 +20,11 @@
    \tableofcontents \newpage
    
    \section{Einleitung}
-   これは\furi{日本語}{にほんご}の\furi{文}{ぶん}です。
-   \section{Kapitel 1: [Title]}
+  {\jap これは\furi{日本語}{にほんご}の\furi{文}{ぶん}です。}
+   \section{Kapitel 1: [Title 1]}
 	\subsection{}
-   \section{Kapitel 2: [Title]}
-   
+   \section{Kapitel 2: [Title 2]}
+
+
+
 \end{document}

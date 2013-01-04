@@ -1,0 +1,37 @@
+Ideen zu der Verzeichnisstruktur
+
+- main.tex	=> 	Datei, welche die Struktur des Gesamtdokumentes enthält.
+			Hier werden alle Kapitel inkludiert.
+
+- Kapitel/	=>	Verzeichnis, welches die einzelnen Kapitel strukturiert.
+			Hier werden die Inhalte der Kapitel den Kapiteln zugeordnet.
+			Das Unterverzeichnis Uebungen/ enthält die kapitelabschließenden 
+			Übungen
+
+- Notizen/	=>	Verzeichnis, welches Informationen über die Planung des Gesamt-
+			dokumentes sowie der Teildokumente enthält.
+
+- Ressourcen/	=>	Verzeichnis, welches die generischen Ressourcen enthält. Hierbei
+			gilt: Nur wenn es nicht anders geht, die Ressource dem Thema bei-
+			legen.
+
+- Grammatik/	=>	Verzeichnis, welches die grammatischen Teile enthält. Dabei
+			erhält jedes grammatische Thema ein eigenes Verzeichnis, in 
+			welchem Teilthemen und themenspezifische Ressourcen abgelegt 
+			werden. (Siehe Ressourcen/)
+
+- Japan/	=> 	Verzeichnis, welches die Japan Referenzen enthält. Dabei erhält
+			jede Referenz ein eigenes Verzeichnis, in welchem Teilthemen und
+			themenspezifische Ressourcen abgelegt werden. (Siehe Ressourcen/)
+
+- Vokabular/	=>	Verzeichnis, welches die vokabularerweiternden Teile enthält. 
+			Dabei erhält jeder Teil ein eigenes Verzeichnis, in welchem 
+			Teilthemen und themenspezifische Ressourcen abgelegt werden.
+			(Siehe Ressourcen/)
+
+- Kanji/	=>	Verzeichnis, welches die Kanji Teile enthält. Dabei erhält jeder
+			Teil ein eigenes Verzeichnis, in welchem Teilthemen und themen-
+			spezifische Ressourcen abgelegt werden. (Siehe Ressourcen/)
+
+- Sonstiges/	=>	Verzeichnis, welches die Teile enthält, die nicht zugeordnet
+			werden können.

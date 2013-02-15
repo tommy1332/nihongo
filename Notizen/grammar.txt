@@ -1,0 +1,143 @@
+ageru (sb gives sth to sb)
+ageru (sb gives sb a favor by doing sth)
+aida ni
+amari
+anmari
+aru (exist)
+aru (sth has been done --> te aru)
+ato de
+-ba (Konditional)
+bakari
+bakari de wa naku
+-ba yokatta
+-chan
+-chau
+chittomo
+-chuu
+da
+daga
+dai
+dakara
+dake de wa naku
+dakedo
+darou
+-dasu
+datte
+de (location)
+de (instrument)
+de (te form of desu)
+de (time)
+de aru
+demo
+deshou
+desu
+dou
+e (he)
+ga (subject marker)
+ga (but)
+-garu
+go- o-
+gurai kurai
+-hajimeru
+hazu
+hodo
+hou ga ii
+-hou ga -yori
+hoshii (want sth)
+hoshii (want sb to do sth)
+ikaga
+iku
+iru (exist)
+iru (need)
+itadaku
+ka (or)
+ka (question)
+ka dou ka
+kamoshirenai
+kanaa
+kara (from)
+kara (after doing sth)
+kara (because)
+kashira
+-kata
+kawari ni
+kedo
+koto (nominalisierer)
+koto ga aru
+koto ga dekiru
+koto ni naru
+koto ni suru
+-kudasai
+-kun
+kureru (sb gives sth to me)
+kureru (sb gives me a favor by doing sth)
+kuru (come)
+kuru (begin to, come to)
+mada
+made
+made ni
+mai-
+mama
+masaka
+-mashou
+mo (also)
+mo (even)
+mono da
+morau
+motte iru
+na (gobi)
+nado
+nagara
+nai de
+nakereba naranai (müssen)
+nara
+-nasai
+ne
+n da
+ni (time)
+ni (indirect obj)
+ni (source)
+ni (direct contact)
+ni (purpose)
+ni (location)
+ni (direction)
+-nikui
+no (posessive)
+no (nominalizer)
+no (gobi)
+node
+noni
+o (direct obj)
+o (space)
+oku (te oku)
+-owaru
+rareru (passive)
+rareru (potential)
+rashii
+-sama
+-san
+shi
+shika
+shikashi
+souda
+soshite
+sugiru
+suru
+-tai
+tame
+-tara
+-te (ageru, aru, hoshii, iru, kara, kudasai, kureru, miru, mo, mo ii, morau, oku, shimau, yokatta)
+to (and)
+to (with)
+to (quote)
+to (if)
+toka
+toki
+tokoro
+tte
+wa (theme)
+wa (gobi)
+ya
+-yasui
+yo (gobi)
+zenzen

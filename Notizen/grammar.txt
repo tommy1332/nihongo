@@ -1,99 +1,28 @@
-ageru (sb gives sth to sb)
-ageru (sb gives sb a favor by doing sth)
-aida ni
-amari
-anmari
-aru (exist)
-aru (sth has been done --> te aru)
-ato de
--ba (Konditional)
-bakari
-bakari de wa naku
--ba yokatta
+Personensuffixe
 -chan
--chau
-chittomo
--chuu
-da
-daga
-dai
-dakara
-dake de wa naku
-dakedo
-darou
--dasu
-datte
+-sama
+-san
+-kun
+
+Konditional
+-nara
+-tara
+-ba (Konditional)
+-ba yokatta
+to (Konditional)
+
+Partikel
 de (location)
 de (instrument)
 de (te form of desu)
 de (time)
-de aru
-demo
-deshou
-desu
-dou
 e (he)
 ga (subject marker)
 ga (but)
--garu
-go- o-
-gurai kurai
--hajimeru
-hazu
-hodo
-hou ga ii
--hou ga -yori
-hoshii (want sth)
-hoshii (want sb to do sth)
-ikaga
-iku
-iru (exist)
-iru (need)
-itadaku
 ka (or)
 ka (question)
-ka dou ka
-kamoshirenai
-kanaa
-kara (from)
-kara (after doing sth)
-kara (because)
-kashira
--kata
-kawari ni
-kedo
-koto (nominalisierer)
-koto ga aru
-koto ga dekiru
-koto ni naru
-koto ni suru
--kudasai
--kun
-kureru (sb gives sth to me)
-kureru (sb gives me a favor by doing sth)
-kuru (come)
-kuru (begin to, come to)
-mada
-made
-made ni
-mai-
-mama
-masaka
--mashou
 mo (also)
 mo (even)
-mono da
-morau
-motte iru
-na (gobi)
-nado
-nagara
-nai de
-nakereba naranai (müssen)
-nara
--nasai
-ne
-n da
 ni (time)
 ni (indirect obj)
 ni (source)
@@ -101,43 +30,143 @@ ni (direct contact)
 ni (purpose)
 ni (location)
 ni (direction)
--nikui
 no (posessive)
 no (nominalizer)
-no (gobi)
-node
-noni
-o (direct obj)
-o (space)
-oku (te oku)
--owaru
-rareru (passive)
-rareru (potential)
-rashii
--sama
--san
-shi
-shika
-shikashi
-souda
-soshite
-sugiru
-suru
--tai
-tame
--tara
--te (ageru, aru, hoshii, iru, kara, kudasai, kureru, miru, mo, mo ii, morau, oku, shimau, yokatta)
 to (and)
 to (with)
 to (quote)
-to (if)
+tte
+o (direct obj)
+o (space)
+shi
+ya
+wa (theme)
+
+Komplexere Partikel
+made
 toka
+kara (from)
+node
+shika
+nado
+made ni
+
+Gobi
+ne
+no (gobi)
+na (gobi)
+yo (gobi)
+wa (gobi)
+kanaa
+kashira
+mono da
+n da
+
+Verbagglutinationen
+-tai
+-chau
+-hajimeru
+-owaru
+-dasu
+-garu
+-kata
+-mashou
+-masu
+-ta
+-nikui
+-yasui
+-chuu --> 勉強中
+-nasai
+-nai de
+-te (ageru, aru, hoshii, iru, kara, kudasai, kureru, miru, mo, mo ii, morau, oku, shimau, yokatta
+-rareru (passive)
+-rareru (potential)
+-nagara
+
+Adjektivagglutionen
+-rashii
+
+Agglutinationen
+-sugiru
+
+Adverbien
+amari
+anmari
+chittomo
+bakari
+zenzen
+mada
+
+Kopula
+da
+darou
+de aru
+deshou
+desu
+
+Präfixe
+dai-
+mai-
+go-, o-
+
+Komparativ
+-hou ga -yori
+hou ga ii
+
+Besondere Verben
+aru (exist)
+iru (exist)
+iru (need)
+suru
+ageru (sb gives sth to sb)
+kuru
+itadaku
+morau
+motte iru
+kureru (sb gives sth to me)
+
+Adjektive
+hoshii (want sth)
+
+Fragewörter
+dou
+ikaga
+
+Besondere Substantive
+koto (nominalisierer)
+aida ni
+ato de
+gurai, kurai
+hazu
+hodo
+mama
+tame
 toki
 tokoro
-tte
-wa (theme)
-wa (gobi)
-ya
--yasui
-yo (gobi)
-zenzen
+masaka
+kawari ni
+
+Konjunktionen
+datte
+kedo
+daga
+demo
+dakedo
+kara (because)
+noni
+shikashi
+soshite
+dakara
+
+Diverse Ausdrücke
+bakari de wa naku
+dake de wa naku
+ka dou ka
+kamoshirenai
+koto ga aru
+koto ga dekiru
+koto ni naru
+koto ni suru
+nakereba naranai (müssen)
+souda
+

@@ -4,7 +4,7 @@ import sys
 import re
 
 # arg1 = gyou n ∈ {0,1,...,10}
-# arg2 = flags: d = dakuten; s = sokuon; y = youon; c = chouon; a = all
+# arg2 = flags: d = dakuten; s = sokuon; y = youon; c = chouon; n = ん; a = all
 # arg3 = maximale JLPT-Level
 # hiragana katakana offset: 96
 
@@ -19,7 +19,7 @@ level = int(sys.argv[3])
 output = sys.argv[4]
 
 # indeces 0-9 (but off by one)
-kana_list = ["あいうえお", "かきくけこがぎぐげご", "さしすせそざじずぜぞ", "たちつてとだぢづでど", "なにぬねの", "はひふへほばびぶべぼぱぴぷぺぽ", "まみむめも", "やゆよ", "らりるれろ", "わをん"]
+kana_list = ["あいうえお", "かきくけこがぎぐげご", "さしすせそざじずぜぞ", "たちつてとだぢづでど", "なにぬねの", "はひふへほばびぶべぼぱぴぷぺぽ", "まみむめも", "やゆよ", "らりるれろ", "わを"]
 
 kana_list = kana_list[:gyou]
 chars = "" # string containing allowed chars
@@ -33,6 +33,8 @@ for elem in kana_list:
     chars += "ゃゅょ"
   if "c" in flags or "a" in flags:
     chars += "ー"
+  if "n" in flags or "a" in flags:
+    chars += "ん"
 
 vocab_list = []
 reading_list = []

@@ -36,6 +36,13 @@ for elem in kana_list:
   if "n" in flags or "a" in flags:
     chars += "ん"
 
+for elem in chars:
+  if elem != "ー":
+    chars += (chr(ord(elem) + 96))
+
+# Add this by default
+chars += "ぁぃぅぇぉァィゥェォ"
+
 vocab_list = []
 reading_list = []
 kanji_list = []
@@ -43,7 +50,7 @@ kanji_list = []
 re_in_bracket = re.compile("\(([^\)]*)\)")
 re_kana_word = re.compile("([^:]*)")
 
-for i in range(5, level - 1, -1):
+for i in range(5, level - 1, -1): # Accumulated!
   filename = "n" + str(i) + ".txt"
   with open(filename) as f:
     for line in f:

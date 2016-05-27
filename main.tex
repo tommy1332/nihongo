@@ -1,30 +1,52 @@
-\documentclass[a4paper]{scrartcl}
+\documentclass[a4paper,11pt]{scrbook}
 
-\usepackage{fontspec} 
-\usepackage{german}
+\usepackage{xeCJK}
+\usepackage{ruby}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage[ngerman]{babel}
 
-\setmainfont{Droid Serif}
-\newfontfamily\japtext{TakaoPMincho}
+\setCJKmainfont{DFKyoKaSho-W4}
+
+\newlength{\kanjispace}
+\setlength{\kanjispace}{0.8cm}
 
 \parindent 0pt
 
-\newcommand{\jap}[1]{\japtext #1}
-\newcommand{\furi}[2]{$\stackrel{\mbox{\tiny #2}}{\mbox{#1}}$}
+\newcommand{\utext}[2]{$\underset{\mbox{\tiny #1}}{\underline{\hspace{#2\kanjispace}}}$}
+\newcommand{\uline}[1]{\underline{\hspace{#1\kanjispace}}}
+\renewcommand\rubysep{-0.1em}
 
-\title{\jap 日本語を勉強しましょう}
+\title{\ruby{日本語}{にほんご}を\ruby{勉強}{べんきょう}しましょう！}
+\subtitle{\emph{nihongo o benkyō shimashō!}\\Lernen wir Japanisch!}
+\date{}
+\author{田中ねこ\\山田いぬ}
 
 \begin{document}
- 
- % Bsp für Furigana
-  Das ist ein Test.\\
-  \jap{これ、\furi{私}{わたし}が\furi{見}{み}つけたから、\furi{私}{わたし}のよ。}\\
-  \jap{あれ、\furi{右}{みぎ}の\furi{方}{ほう}が\furi{重}{おも}いぞ。}
-   \tableofcontents \newpage
-   
-  \jap{ これは\furi{日本語}{にほんご}の\furi{文}{ぶん}です。}
-  \input{Kapitel/0.tex}
-  \input{Kapitel/1.tex}
+  \newgeometry{centering}
+  \begin{titlepage}
+    \maketitle
+  \end{titlepage}
+  \restoregeometry
 
+Diese Seite ist leer.
+\tableofcontents
 
+\chapter{Vorwort}
+\begin{itemize}
+  \item Intendierte Zielgruppe:
+    \begin{itemize}
+      \item Gute Deutschkenntnisse
+      \item Keine Vorkenntnisse im Japanischen nötig
+      \item Kenntnisse der Aussagenlogik und Cantor'schen Mengentheorie
+    \end{itemize}
+  \item Ziele:
+    \begin{itemize}
+      \item Vorbereitung auf N5
+      \item Lehrbuch
+      \item Vermittlung von grundlegenden Kenntnissen im Lesen und Schreiben (Sprechen, Hören)
+      \item Vermittlung von Wissen über japanische Kultur
+    \end{itemize}
+\end{itemize}
 
 \end{document}
